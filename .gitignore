@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But 2 folders
+!.gitignore
+!sequential/
+!parallel/
